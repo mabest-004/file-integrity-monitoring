@@ -130,8 +130,8 @@ parser = argparse.ArgumentParser(description='File Integrity Monitoring Program'
 parser.add_argument('-i', '--init', action='store_true', help='Initialize the program')
 parser.add_argument('-u', '--update', action='store_true', help='Update hash values')
 parser.add_argument('-c', '--check', action='store_true', help='Check for changes')
-parser.add_argument('-w', '--watch', action='store_true', help='real time check')
-parser.add_argument("-t", "--time", type=int, help="time of real time check in second")
+parser.add_argument('-w', '--watch', action='store_true', help='Real-time monitoring')
+parser.add_argument("-t", "--time", type=int, help="Monitoring interval in seconds")
 parser.add_argument('algorithm', nargs='?', help='Hash algorithm')
 
 args = parser.parse_args()
