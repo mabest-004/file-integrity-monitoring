@@ -484,29 +484,6 @@ Current limitations include:
 
 ---
 
-# Future Improvements
-
-Possible future improvements:
-
-* Add configuration file support
-* Add custom directory selection
-* Add file extension filters
-* Add directory exclusion rules
-* Add colored terminal output
-* Improve change reporting
-* Add email notifications
-* Add desktop notifications
-* Add system event-based monitoring
-* Add unit tests
-* Improve exception handling
-* Add baseline backup and restore
-* Protect the baseline using digital signatures
-* Add a graphical user interface
-* Add database support
-* Add scheduled monitoring
-
----
-
 # License
 
 This project is licensed under the MIT License.
