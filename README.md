@@ -6,6 +6,7 @@ The program creates a baseline of files using cryptographic hash functions and c
 
 It can detect content changes, new files, deleted files, file size changes, and modification time changes.
 
+
 ---
 
 ## Features
