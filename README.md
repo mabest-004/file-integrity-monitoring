@@ -161,7 +161,7 @@ During a check, the current values are compared with the stored baseline.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/file-integrity-monitoring.git
+git clone https://github.com/mabest-004/file-integrity-monitoring.git
 ```
 
 Move into the project directory:
